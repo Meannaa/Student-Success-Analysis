@@ -1,5 +1,4 @@
 # Student-Success-Analysis
-# Behavioral and Demographic Influences on Student Success: Analysis Report
 
 ## Project Overview
 This project examines how behavioral and demographic factors, like weekday alcohol consumption and past failures, impact academic success in students. Through statistical analysis, key insights into student performance were identified, offering potential strategies for educational support.
